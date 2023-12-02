@@ -1,4 +1,4 @@
-package ca.jonathanfritz.aoc2k3.day1
+package ca.jonathanfritz.aoc2k3.day1.part1
 
 import ca.jonathanfritz.aoc2k3.Utils
 
@@ -12,5 +12,6 @@ class Part1 {
 }
 
 fun main() {
-    println(Part1().trebuchet(Utils.loadFromFile("day1/Trebuchet.txt")))
+    println(Part1().trebuchet(Utils.loadFromFile("Day1.txt")))
 }
+
