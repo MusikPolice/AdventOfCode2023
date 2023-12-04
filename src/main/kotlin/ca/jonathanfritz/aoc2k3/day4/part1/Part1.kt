@@ -1,4 +1,4 @@
-package ca.jonathanfritz.aoc2k3.day3.part1.day4.part1
+package ca.jonathanfritz.aoc2k3.day4.part1
 
 import ca.jonathanfritz.aoc2k3.Utils
 
