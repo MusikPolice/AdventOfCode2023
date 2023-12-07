@@ -39,7 +39,7 @@ class Part2 {
 
         // TODO: another idea is that distance creates a parabola - if we can find where it intersects with the record
         //  distance, we know how many solutions are in between
-        
+
         return 0
     }
 }
